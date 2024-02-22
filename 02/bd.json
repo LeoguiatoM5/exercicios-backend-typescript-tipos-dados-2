@@ -1,0 +1,17 @@
+{
+  "novoCampo": "Valor novo 2",
+  "usuarios": [
+    {
+      "nome": "Fulano",
+      "email": "fulano@example.com",
+      "cpf": "123.456.789-00",
+      "profissao": "Desenvolvedor",
+      "endereco": {
+        "cep": "12345-678",
+        "rua": "Rua Exemplo",
+        "bairro": "Bairro Exemplo",
+        "cidade": "Cidade Exemplo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "novoCampo": "Valor novo 2",
+  "usuarios": [
+    {
+      "nome": "Fulano",
+      "email": "fulano@example.com",
+      "cpf": "123.456.789-00",
+      "profissao": "Analista de Dados",
+      "endereco": {
+        "cep": "98765-432",
+        "rua": "Rua Nova",
+        "bairro": "Bairro Novo",
+        "cidade": "Cidade Nova"
+      }
+    }
+  ]
+}
